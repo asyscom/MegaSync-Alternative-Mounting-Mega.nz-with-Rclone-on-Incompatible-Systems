@@ -1,0 +1,1 @@
+# MegaSync-Alternative-Mounting-Mega.nz-with-Rclone-on-Incompatible-Systems
